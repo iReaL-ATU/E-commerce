@@ -1,0 +1,263 @@
+[
+    {
+        "id": "nike01",
+        "titulo": "Nike 01",
+        "imagen": "./img/nike/nike1.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike02",
+        "titulo": "Nike 02",
+        "imagen": "./img/nike/nike2.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike03",
+        "titulo": "Nike 03",
+        "imagen": "./img/nike/nike3.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike04",
+        "titulo": "Nike 04",
+        "imagen": "./img/nike/nike4.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike05",
+        "titulo": "Nike 05",
+        "imagen": "./img/nike/nike5.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike06",
+        "titulo": "Nike 06",
+        "imagen": "./img/nike/nike6.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike07",
+        "titulo": "Nike 07",
+        "imagen": "./img/nike/nike7.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike08",
+        "titulo": "Nike 08",
+        "imagen": "./img/nike/nike8.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "nike09",
+        "titulo": "Nike 09",
+        "imagen": "./img/nike/nike9.jpg",
+        "categoria": {
+            "nombre": "Nike",
+            "id": "nike"
+        },
+        "precio": 45
+    },
+    {
+        "id": "adidas01",
+        "titulo": "Adidas 01",
+        "imagen": "./img/adidas/adidas01.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas02",
+        "titulo": "Adidas 02",
+        "imagen": "./img/adidas/adidas02.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas03",
+        "titulo": "Adidas 03",
+        "imagen": "./img/adidas/adidas03.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas04",
+        "titulo": "Adidas 04",
+        "imagen": "./img/adidas/adidas04.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas05",
+        "titulo": "Adidas 05",
+        "imagen": "./img/adidas/adidas05.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas06",
+        "titulo": "Adidas 06",
+        "imagen": "./img/adidas/adidas06.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas07",
+        "titulo": "Adidas 07",
+        "imagen": "./img/adidas/adidas07.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas08",
+        "titulo": "Adidas 08",
+        "imagen": "./img/adidas/adidas08.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "adidas09",
+        "titulo": "Adidas 09",
+        "imagen": "./img/adidas/adidas09.jpg",
+        "categoria": {
+            "nombre": "Adidas",
+            "id": "adidas"
+        },
+        "precio": 40
+    },
+
+    {
+        "id": "jordan01",
+        "titulo": "Jordan 01",
+        "imagen": "./img/jordan/jordan1.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan02",
+        "titulo": "Jordan 02",
+        "imagen": "./img/jordan/jordan2.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan03",
+        "titulo": "Jordan 03",
+        "imagen": "./img/jordan/jordan3.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan04",
+        "titulo": "Jordan 04",
+        "imagen": "./img/jordan/jordan4.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan05",
+        "titulo": "Jordan 05",
+        "imagen": "./img/jordan/jordan5.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan06",
+        "titulo": "Jordan 06",
+        "imagen": "./img/jordan/jordan6.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan07",
+        "titulo": "Jordan 07",
+        "imagen": "./img/jordan/jordan7.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    },
+    {
+        "id": "jordan08",
+        "titulo": "Jordan 08",
+        "imagen": "./img/jordan/jordan8.jpg",
+        "categoria": {
+            "nombre": "Jordan",
+            "id": "jordan"
+        },
+        "precio": 40
+    }
+]
